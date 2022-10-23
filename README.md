@@ -1,7 +1,7 @@
 <!--APRESENTATION-->
 <div>
-  <h2 align="center">Hi there, i'm lapaCaio👋</h2>
-  <h3>"Your focus determines your reality."</h3>
+  <h2 align="center">Hi there, i'm João Victor👋</h2>
+  <h3>"1% better every day"</h3>
 </div>
 
 - Im actually doing Computer Cience on Federal University Of Espirito Santo.

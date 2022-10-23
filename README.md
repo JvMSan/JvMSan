@@ -36,4 +36,9 @@
     <span>Portuguese and English.</span>
 </div>
 
+<div align="left">
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvMSan&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 </div>
